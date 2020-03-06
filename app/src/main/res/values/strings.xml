@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="makanan">Makanan</string>
+    <string name="detail">Detail</string>
+    <string name="profil">Profil</string>
+    <string name="agisti_setia_putri">Agisti Setia Putri</string>
+    <string name="gistisp_gmail">gistisp@gmail.com</string>
+    <string name="kembali">kembali</string>
+</resources>
